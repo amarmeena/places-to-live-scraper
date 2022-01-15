@@ -54,7 +54,7 @@ def find_salary(job=None, year=None, recordpercitylimit=0):
         driver.close()
 
 
-    df.to_csv("{}.csv".format(job), index=False)
+    df.to_csv("{}_Salary.csv".format(job), index=False)
 
 
 for job in jobs:
