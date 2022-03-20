@@ -2,7 +2,7 @@
 Scrapes salary, rent, and other job relevant statistics to find ideal job and locations for work.
 
 
-Criteria for best places to live
+### Criteria for best places to live
 1. Connectivity domestic+international
 
 2. Median Tech Salaries (in my case - Product Manager's)
@@ -12,7 +12,7 @@ Criteria for best places to live
 
 
 
-
+### Scraping Process:
 Step 1. Scrape names of all major cities
     Using: https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population
 
