@@ -4,7 +4,6 @@ Scrapes salary, rent, and other job relevant statistics to find ideal job and lo
 
 ### Criteria for best places to live
 1. Connectivity domestic+international
-
 2. Median Tech Salaries (in my case - Product Manager's)
 3. Median Housing Prices.
 4. Number of overcast days.
