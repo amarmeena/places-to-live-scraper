@@ -11,6 +11,8 @@ Criteria for best places to live
 5. Number of days with temperature over 90 degrees.
 
 
+
+
 Step 1. Scrape names of all major cities
     Using: https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population
 
