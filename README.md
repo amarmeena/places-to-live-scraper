@@ -13,7 +13,7 @@ Scrapes salary, rent, and other job relevant statistics to find ideal job and lo
 
 ### Scraping Process:
 1. Scrape names of all major cities
-    Using: https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population
+    using: https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population
 2. Scrape Tech Salaries for each city
 3. Scrape Housing Prices for each city
 4. Scrape weather data
