@@ -13,8 +13,11 @@ Criteria for best places to live
 
 Step 1. Scrape names of all major cities
     Using: https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population
+
 Step 2. Scrape Tech Salaries for each city
+
 Step 3. Scrape Housing Prices for each city
+
 Step 4. Scrape weather data
     a. Number of overcast days
     b. Number of days with over 90 degrees
